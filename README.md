@@ -1,3 +1,3 @@
-## aeroop
-
-Repo for the project titled _Deep Reinforcement Learning approach to Environment-dependent Aerodynamic Design Optimization Problem_
+## AERO: Aerodynamic Efficiency with Reinforcement Optimization
+---
+_Deep Reinforcement Learning approach to Environment-depented Aerodynamic Design Optimization Problem_
