@@ -22,13 +22,10 @@ _____________________________________________________________
 
 _____________________________________________________________
 ### Environment Properties
-
-| parameter_name     | observation_space  | action_space  |
-|---|---|---|
-| $v^{\infty}$         | ?                  | ?             |
-| rpm                | ?                  | ?             |
-| fluid density      | ?                  | ?             |
-| fluid viscosity    | ?                  | ?             |
+| parameter_name     | observation_space  |
+|---|---|
+| $\text{Re} (\frac{\rho v l}{\mu})$[^1]       | ?                  |
+| $\text{rpm}$      | ?                  |
 
 ### Propeller Properties
 | parameter_name     | observation_space  | action_space  |
@@ -44,7 +41,8 @@ _____________________________________________________________
 | offsetx (m)        | [-0.5, 0.5]        | [-0.05, 0.05] |
 | chord (m)          | [0.01, 0.25]       | [-0.05, 0.05] |
 | twist              | [0.0, 45.0]        | [-5, 5]       |
-| m                  | [0.01, 0.1]        | [-0.01, 0.01] |
-| p                  | [0.1, 0.9]         | [-0.01, 0.01] |
-| t                  | [0.1, 0.4]         | [-0.01, 0.01] |
-
+| m[^2]                  | [0.01, 0.1]        | [-0.01, 0.01] |
+| p[^2]                  | [0.1, 0.9]         | [-0.01, 0.01] |
+| t[^2]                  | [0.1, 0.4]         | [-0.01, 0.01] |
+[^1]: Reynolds number, dimensionless value that measures the ratio of inertial forces to viscous forces and descibes the degree of laminar or turbulent flow. Systems that operate at the same Reynolds number will have the same flow characteristics even if the fluid, speed and characteristic lengths vary.
+[^2]: from NACA 4-digit Airfoil Standarts, respectively: max camber, position of max camber and thickness.
