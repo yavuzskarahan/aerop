@@ -1,5 +1,6 @@
-TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A Project: 
+![banner](https://github.com/yavuzskarahan/aerop/assets/112284155/d5547195-a7a8-46d6-9574-d3092f3b9f31)
 ## Deep Reinforcement Learning approach to Environment-depented Aerodynamic Propeller Design Optimization Problem
+TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A Project.
 
 The project includes 4 basic components:
 - Procedural Airfoil Generator
