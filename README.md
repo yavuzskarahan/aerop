@@ -1,4 +1,4 @@
-for TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A: 
+TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A Project: 
 ## Deep Reinforcement Learning approach to Environment-depented Aerodynamic Propeller Design Optimization Problem
 
 The project includes 4 basic components:
