@@ -1,14 +1,12 @@
 for TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A: 
 ## Deep Reinforcement Learning approach to Environment-depented Aerodynamic Propeller Design Optimization Problem
 
-
-
 The project includes 4 basic components:
 - Procedural Airfoil Generator
 - Procedural Propeller Generator
 - Automated CFD Simulator
 - PPO Model
-_____________________________________________________________
+
 ### General Information
 |   |   |
 |---|---|
