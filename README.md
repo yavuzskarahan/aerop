@@ -10,8 +10,9 @@ The project includes 4 basic components:
 - PPO Model
 _____________________________________________________________
 ### General Information
-|**Algorithm**              |   PPO (stable_baselines3) |
+|   |   |
 |---|---|
+|**Algorithm**              |   PPO (stable_baselines3) |
 |**Aerodynamic Solver**     |   OpenFOAM|
 |**Observation**				  | Environment parameters and propeller parameters|
 |**observation_space_size** |   7a + 6 (a = airfoil number, There are 7 parameters for each arifoil and 3 propeller properties and 3 enveroiment parameters.)|
