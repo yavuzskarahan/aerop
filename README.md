@@ -1,4 +1,4 @@
-# $$\text{Deep Reinforcement Learning approach to}$$ $$\text{Aerodynamic and Strategic Drone}$$ $$\text{Design Optimization Problem}$$
+## $$\text{Deep Reinforcement Learning approach to}$$ $$\text{Aerodynamic and Strategic Drone Design Optimization Problem}$$
 $$\text{TUBITAK 2204-A Project.}$$
 
 &nbsp;
