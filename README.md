@@ -1,5 +1,5 @@
-## $$\texttt{Deep Reinforcement Learning approach to}$$ $$\texttt{Aerodynamic and Strategic Drone Design Optimization Problem}$$
-$$\texttt{TUBITAK (The Scientific and Technological Research Council of Turkiye) 2204-A Project.}$$
+# $$\text{Deep Reinforcement Learning approach to}$$ $$\text{Aerodynamic and Strategic Drone Design Optimization Problem}$$
+$$\text{TUBITAK 2204-A Project.}$$
 
 &nbsp;
 
