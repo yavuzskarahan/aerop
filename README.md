@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="96"/>
+</p>
+
 ## $$\text{Deep Reinforcement Learning approach to}$$ $$\text{Aerodynamic and Strategic Drone Design Optimization Problem}$$
 $$\text{TUBITAK 2204-A Project.}$$
 
